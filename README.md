@@ -1,6 +1,6 @@
 # Lightweight Webserver Setup on Raspberry Pi Zero 2 W
 
-This guide walks you through setting up an ultra-lightweight webserver on your Raspberry Pi Zero 2 W. You’ll install Nginx, PHP-FPM (with PHP-MySQL support), and SQLite to build a reliable server for personal projects, demos, or small websites. Check out my [website](http://comprobrain.site) hosted on the same device and subscribe to my [YouTube Channel](https://www.youtube.com/@comprobrain).
+This guide walks you through setting up an ultra-lightweight webserver on your Raspberry Pi Zero 2 W. You’ll install Nginx, PHP-FPM (with PHP-MySQL support), and SQLite to build a reliable server for personal projects, demos, or small websites. Check out my [website](http://comprobrain.site) hosted on the same device (work in progress) and subscribe to my [YouTube Channel](https://www.youtube.com/@comprobrain).
 
 ---
 
