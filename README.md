@@ -305,14 +305,3 @@ sudo systemctl restart php7.4-fpm  # Adjust the version if you're using a differ
 ---
 
 Enjoy setting up your webserver and happy hosting!
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md file has been created successfully!")
-```
-
----
-
-Simply run the above Python script, and it will generate a `README.md` file with the improved content in your current directory.
